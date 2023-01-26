@@ -1,7 +1,3 @@
-// Anagrams
-// same letters
-// letter is present the same number of times
-
 const str1 = "Sapiens";
 const str11 = "Snepisa";
 const str2 = "dad";
